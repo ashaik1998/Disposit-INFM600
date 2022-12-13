@@ -29,3 +29,15 @@ https://www.figma.com/file/wIgnTWyVYCpWY6o998MB20/INFM600-E-Waste-Website-Design
 <p align = "center">
   <em>Figure-2</em>
 </p>
+
+# Team Members:
+1. Abdul Shaik
+2. Angela Tseng
+3. Dhiraj Lahoti
+4. Iskander Lou
+5. Jasper Evans
+6. Sharvil Shastri
+
+
+
+
