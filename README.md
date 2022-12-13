@@ -17,5 +17,7 @@ https://www.figma.com/file/wIgnTWyVYCpWY6o998MB20/INFM600-E-Waste-Website-Design
 # Context Diagram
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/116919470/207396645-36c677e9-1402-49a6-b1de-f95e02913bf3.PNG">
+</p>
+<p>
   <em>Context Diagram</em>
 </p>
