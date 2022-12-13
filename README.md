@@ -15,4 +15,4 @@ https://www.figma.com/proto/wIgnTWyVYCpWY6o998MB20/INFM600-E-Waste-Website-Desig
 https://www.figma.com/file/wIgnTWyVYCpWY6o998MB20/INFM600-E-Waste-Website-Design?node-id=0%3A1&t=Ub0FZvuOFj15Mypt-3
 
 # Context Diagram
-![600_1](https://user-images.githubusercontent.com/116919470/207396645-36c677e9-1402-49a6-b1de-f95e02913bf3.PNG)
+<img align="center" src="https://user-images.githubusercontent.com/116919470/207396645-36c677e9-1402-49a6-b1de-f95e02913bf3.PNG">
