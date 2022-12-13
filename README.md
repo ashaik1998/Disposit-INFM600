@@ -19,5 +19,13 @@ https://www.figma.com/file/wIgnTWyVYCpWY6o998MB20/INFM600-E-Waste-Website-Design
   <img width="460" height="300" src="https://user-images.githubusercontent.com/116919470/207396645-36c677e9-1402-49a6-b1de-f95e02913bf3.PNG">
 </p>
 <p align = "center">
-  <em>Context Diagram</em>
+  <em>Figure-1</em>
+</p>
+
+# Dataflow Diagram
+<p align="center">
+  <img width="500" height="320" src="https://user-images.githubusercontent.com/116919470/207399230-fd403193-d7c3-4303-ab59-e9593ab07296.PNG">
+</p>
+<p align = "center">
+  <em>Figure-2</em>
 </p>
